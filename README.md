@@ -1,7 +1,7 @@
 # Titanic Survival Prediction (Advanced Version)
 
 ## Overview
-This project implements an advanced machine learning pipeline to predict passenger survival on the Titanic dataset (Kaggle competition). Compared to a baseline model, the code integrates **extensive feature engineering**, **robust preprocessing**, **multiple model families with hyperparameter optimization**, and **ensemble methods (voting & stacking)**.
+This project implements an advanced machine learning pipeline to predict passenger survival on the Titanic dataset. Compared to a baseline model, the code integrates **extensive feature engineering**, **robust preprocessing**, **multiple model families with hyperparameter optimization**, and **ensemble methods (voting & stacking)**.
 
 Final experiments produced strong cross-validation performance (best ~0.9776 CV accuracy with Random Forests), though note that CV may be slightly optimistic due to encoding strategy. Still, the pipeline is competitive and modular for future improvements.
 
