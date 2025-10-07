@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.DS_Store
+outputs/
+*.joblib
+*.pkl
+.ipynb_checkpoints/
